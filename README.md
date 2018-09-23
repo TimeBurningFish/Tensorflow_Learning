@@ -4,7 +4,7 @@
 
 ### [笔记系列](https://github.com/TimeBurningFish/Tensorflow_Learning/blob/master/Notes) 
 
-### 实战系列
+### [实战系列](https://github.com/TimeBurningFish/Tensorflow_Learning/tree/master/Practice)
 
 
 ##### 配置
